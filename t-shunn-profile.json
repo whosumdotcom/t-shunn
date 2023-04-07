@@ -1,0 +1,38 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T14:37:01Z",
+  "IdClaims": [
+    {
+      "Claim": "t:shunn"
+    },
+    {
+      "Claim": "gh:shunn"
+    },
+    {
+      "Claim": "ss:shunn"
+    },
+    {
+      "Claim": "mdon:@shunn@mastodon.online"
+    },
+    {
+      "Claim": "spout:shunn"
+    },
+    {
+      "Claim": "med:shunn"
+    },
+    {
+      "Claim": "yt:@wmshunn"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "520a3a58d9e596bfa43926c7",
+    "Timestamp": "2023-04-07T14:54:56Z",
+    "Signature": "4dc9d2b8520fbed2d2fdcd252912f0bbda00f43132a1b9e277f578ed2ce2ce649fef130bf1037487d2603d50b8422b9284f8f2eccff204562d13be25e1ac67983f7d00341573362c93b4917acd4f2f09586e4988972272b8f887b52a7dbd94a1fabe51d19b1e8e793ac0999c050c748edff437eb031a6d758f955aef963933a2b318fa29da56523dbe2d5c3ee79cfb98ecfaf9f92360a0b9d0bf857b51f2783b398ea1648e9d7f84d8579790e0fb7878ba85f9c2e35990b1453309fefe9106e8922f3c14a89cafe341c045f2e741606d27d8741d1571a8c9826723b5e882a9bdd03fffaf29212cdcf435232af968568d61a46464f953298c03f8214f5edded6a"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "e8bcf80d47cfb9b5f419b37531865c6df098bb4a34e2d8d713377d532f434a98",
+  "ContentToHash": "v1|gh:shunn,mdon:@shunn@mastodon.online,med:shunn,spout:shunn,ss:shunn,t:shunn,yt:@wmshunn|2023-04-07T14:37:01Z"
+}
